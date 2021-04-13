@@ -14,9 +14,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes an algorithm for epidemic modeling based on the SIR model using Cellular Automata.
-The project was implemented for the purposes of the Research & Design of Complex Electronic Systeems course
-of the 8th semester of DUTh.
+The repository includes Neural Networks implemented using Keras for image classification. Two datasets have been used, the Sign Language Digits Dataset and the Diabetic Retinopathy Arranged dataset.
+The project was implemented for the purposes of the Pattern Recognition course of the 9th semester of DUTh.
 
 More about the SIR model: Measuring and Preventing COVID-19 Using the SIR Model and Machine Learning in Smart Health Care
 
