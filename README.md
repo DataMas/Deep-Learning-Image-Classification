@@ -19,7 +19,7 @@ The repository includes Neural Networks implemented using Keras for image classi
 - Sign Language Digits Dataset: https://www.kaggle.com/ardamavi/sign-language-digits-dataset
 
 The project was implemented for the purposes of the Pattern Recognition course of the 9th semester of DUTh.
-- More about DUTH and the Pattern Recognition course: https://www.ee.duth.gr/en/course/pattern-recognition/
+- More about DUTh and the Pattern Recognition course: https://www.ee.duth.gr/en/course/pattern-recognition/
 
 <!-- GETTING STARTED -->
 ## Getting Started
