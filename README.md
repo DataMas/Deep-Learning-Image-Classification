@@ -14,10 +14,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes Neural Networks implemented using Keras for image classification. Two datasets have been used, the Sign Language Digits Dataset and the Diabetic Retinopathy Arranged dataset.
-The project was implemented for the purposes of the Pattern Recognition course of the 9th semester of DUTh.
+The repository includes Neural Networks implemented using Keras for image classification. Two datasets have been used, the Sign Language Digits Dataset and the Diabetic Retinopathy Arranged Dataset. Both datasets can be found on Kaggle:
+- Diabetic Retinopathy Arranged Dataset: https://www.kaggle.com/amanneo/diabetic-retinopathy-resized-arranged
+- Sign Language Digits Dataset: https://www.kaggle.com/ardamavi/sign-language-digits-dataset
 
-More about the SIR model: Measuring and Preventing COVID-19 Using the SIR Model and Machine Learning in Smart Health Care
+The project was implemented for the purposes of the Pattern Recognition course of the 9th semester of DUTh.
 
 <!-- GETTING STARTED -->
 ## Getting Started
