@@ -23,14 +23,15 @@ The project was implemented for the purposes of the Pattern Recognition course o
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To get started make sure you have downloaded the CA file containing the code files.
+The notebooks can be found in the Models folder.
 
 ### Running experiments
-To run you wn experiments using this implementation of epidemic modeling:
-- Run spreading.m file to simulate an epidemic spreading without vaccination
-  - Configure population and virus characteristics variables
-- Run vaccination.m file to simulate the effects of vacination
-  - Configure population, virus and vaccination characteristics variables
+There are two notebooks for simple Artificial Neural Networks:
+- Notebook ANN_analysis.ipynb contains a series of different ANN architectures.
+- Notebook ANN_best.ipynb contains the ANN architecture that performs best.
+There are two notebooks for simple Convolutional Neural Networks:
+- Notebook CNN_analysis.ipynb contains a series of different CNN architectures.
+- Notebook CNN_best.ipynb contains the CNN architecture that performs best.
 
 <!-- CONTRIBUTING -->
 ## Contributing
