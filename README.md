@@ -29,6 +29,7 @@ The notebooks can be found in the Models folder.
 There are two notebooks for simple Artificial Neural Networks:
 - Notebook ANN_analysis.ipynb contains a series of different ANN architectures.
 - Notebook ANN_best.ipynb contains the ANN architecture that performs best.
+
 There are two notebooks for simple Convolutional Neural Networks:
 - Notebook CNN_analysis.ipynb contains a series of different CNN architectures.
 - Notebook CNN_best.ipynb contains the CNN architecture that performs best.
